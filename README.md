@@ -1,1 +1,1 @@
-# medicdatablockchain
+# MedBlocks
